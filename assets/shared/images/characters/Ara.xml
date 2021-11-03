@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ara.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ara Down0000" x="0" y="0" width="271" height="441" frameX="0" frameY="0" frameWidth="271" frameHeight="442"/>
+	<SubTexture name="Ara Down0001" x="271" y="0" width="271" height="432" frameX="0" frameY="-10" frameWidth="271" frameHeight="442"/>
+	<SubTexture name="Ara Down0002" x="542" y="0" width="271" height="420" frameX="0" frameY="-21" frameWidth="271" frameHeight="442"/>
+	<SubTexture name="Ara Idle0000" x="813" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0001" x="1094" y="0" width="288" height="507" frameX="0" frameY="-4" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0002" x="1382" y="0" width="296" height="511"/>
+	<SubTexture name="Ara Idle0003" x="1678" y="0" width="281" height="500" frameX="0" frameY="-11" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0004" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0005" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0006" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0007" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0008" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0009" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0010" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0011" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0012" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0013" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0014" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0015" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0016" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Idle0017" x="1959" y="0" width="281" height="498" frameX="0" frameY="-13" frameWidth="296" frameHeight="511"/>
+	<SubTexture name="Ara Left0000" x="2240" y="0" width="237" height="507" frameX="-9" frameY="-9" frameWidth="246" frameHeight="516"/>
+	<SubTexture name="Ara Left0001" x="2477" y="0" width="237" height="507" frameX="-9" frameY="-9" frameWidth="246" frameHeight="516"/>
+	<SubTexture name="Ara Left0002" x="2714" y="0" width="246" height="516"/>
+	<SubTexture name="Ara Left0003" x="2960" y="0" width="246" height="516"/>
+	<SubTexture name="Ara Right0000" x="3206" y="0" width="344" height="468" frameX="-3" frameY="0" frameWidth="376" frameHeight="468"/>
+	<SubTexture name="Ara Right0001" x="3550" y="0" width="357" height="468" frameX="-3" frameY="0" frameWidth="376" frameHeight="468"/>
+	<SubTexture name="Ara Right0002" x="0" y="516" width="376" height="468"/>
+	<SubTexture name="Ara Up0000" x="376" y="516" width="299" height="530" frameX="-16" frameY="-14" frameWidth="315" frameHeight="544"/>
+	<SubTexture name="Ara Up0001" x="675" y="516" width="306" height="540" frameX="-5" frameY="-4" frameWidth="315" frameHeight="544"/>
+	<SubTexture name="Ara Up0002" x="981" y="516" width="308" height="544" frameX="0" frameY="0" frameWidth="315" frameHeight="544"/>
+	<SubTexture name="Nya0000" x="1289" y="516" width="287" height="524" frameX="-5" frameY="-14" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0001" x="1576" y="516" width="297" height="529" frameX="-3" frameY="-6" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0002" x="1873" y="516" width="300" height="538"/>
+	<SubTexture name="Nya0003" x="2173" y="516" width="300" height="529" frameX="0" frameY="-9" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0004" x="2473" y="516" width="292" height="529" frameX="0" frameY="-9" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0005" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0006" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0007" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0008" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0009" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0010" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0011" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0012" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0013" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0014" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0015" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0016" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0017" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0018" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0019" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0020" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0021" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0022" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+	<SubTexture name="Nya0023" x="2765" y="516" width="264" height="534" frameX="0" frameY="-4" frameWidth="300" frameHeight="538"/>
+</TextureAtlas>

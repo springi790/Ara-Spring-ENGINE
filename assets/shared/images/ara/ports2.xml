@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ports2.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aranormal" x="0" y="0" width="143" height="146"/>
+	<SubTexture name="aranya" x="143" y="0" width="189" height="166"/>
+	<SubTexture name="araverruckt" x="332" y="0" width="199" height="172"/>
+	<SubTexture name="bf2" x="531" y="0" width="167" height="121"/>
+	<SubTexture name="bfnormal" x="698" y="0" width="167" height="121"/>
+	<SubTexture name="bfscared" x="0" y="172" width="189" height="179"/>
+	<SubTexture name="bfserious" x="189" y="172" width="189" height="118"/>
+	<SubTexture name="gfbeware" x="378" y="351" width="189" height="163"/>
+	<SubTexture name="gfblushed" x="378" y="172" width="189" height="163"/>
+	<SubTexture name="gfcrying" x="567" y="172" width="189" height="142"/>
+	<SubTexture name="gfhappy" x="756" y="172" width="189" height="163"/>
+	<SubTexture name="gfnormal" x="0" y="351" width="189" height="163"/>
+	<SubTexture name="gfscared" x="189" y="351" width="189" height="137"/>
+	<SubTexture name="gfshouting" x="378" y="351" width="189" height="163"/>
+	<SubTexture name="gfsuperblushed" x="567" y="351" width="189" height="141"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floor0000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="mountain0000" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="rock10000" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="rock20000" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="rock30000" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="sky0000" x="1920" y="1080" width="1921" height="1082"/>
+	<SubTexture name="tree0000" x="3841" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tree10000" x="5761" y="1080" width="1920" height="1080"/>
+</TextureAtlas>
